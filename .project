@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>MySQLConnect</name>
+=======
+	<name>MySQLDAO</name>
+>>>>>>> d54aa490aacc7eaa3bda13154d26915b7b1fc5a1
 	<comment></comment>
 	<projects>
 	</projects>
